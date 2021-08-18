@@ -1,0 +1,21 @@
+--High Priority--
+1) Create class-specific abilities.
+2) Figure out how to do combat.
+
+
+**Keep in mind Players can currently join parties without having characters.
+
+--Mid Priority--
+1) Assign bot to channels (channels.json)
+
+--Low Priority--
+1) Make shitty graphics for class or somethin.
+2) Figure out abilties.
+3) Figure out items.
+
+--Max Priority--
+1)loot box
+=============================================================================================================
+Party-based system:
+Players can create or join a SINGLE party in a channel.
+Players can then enter <random/pseudorandom> encounters based on <factors>.
